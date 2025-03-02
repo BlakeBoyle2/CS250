@@ -1,1 +1,9 @@
 # CS250
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+   To interpret user needs, I begin by gathering feedback directly from the users through interviews, surveys, and observing how they currently perform tasks. User stories then become a simple but effective way to capture those needs. Each story clearly states what a user wants to do and why, which keeps the team focused on delivering features that genuinely matter. By breaking requests into small, actionable items, user stories guide development toward practical outcomes rather than abstract ideas.
+
+2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+   My approach to development revolves around an iterative mindset. Instead of tackling the entire project at once, I prefer to work in sprints, where each sprint delivers a small but functional piece of the overall product. During these sprints, I plan to hold daily standups to track progress and quickly address any roadblocks, and sprint reviews to gather real-time feedback from stakeholders. This cycle of development and feedback ensures we adapt quickly to changes and keep the end goal in sight.
+
+3. What does it mean to be a good team member in software development?
+   Collaboration is at the heart of software development, so being a good team member means actively listening, sharing knowledge, and offering constructive feedback. It also means being reliable by completing tasks on time and communicating openly about any challenges that come up. Ultimately, a great team player recognizes that the team’s success is everyone’s success, so they stay focused on supporting one another and contributing to a positive, productive work environment.
